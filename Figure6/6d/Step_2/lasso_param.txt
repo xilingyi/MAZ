@@ -1,0 +1,396 @@
+Iteration: 100, Lambda: 0.171563
+Iteration: 99, Lambda: 0.160000
+|(|db_Zpz/db_Apz|)log*(|o_homo1/o_rop2|)log|
+1656756
+Iteration: 98, Lambda: 0.149217
+|(|db_Zpz/db_Apz|)log*(|o_homo1/o_rop2|)log|
+1656756
+Iteration: 97, Lambda: 0.139160
+||d_Z1H/d_MH|*(|d_AH/d_Z2H |)log|
+133248
+|(|db_Zpz/db_Apz|)log*(|o_homo1/o_rop2|)log|
+1656756
+Iteration: 96, Lambda: 0.129781
+||d_Z1H/d_MH|*(|d_AH/d_Z2H |)log|
+133248
+|(|db_Zpz/db_Apz|)log*(|o_homo1/o_rop2|)log|
+1656756
+Iteration: 95, Lambda: 0.121034
+||d_Z1H/d_MH|*(|d_AH/d_Z2H |)log|
+133248
+|(|db_Zpz/db_Apz|)log*(|o_homo1/o_rop2|)log|
+1656756
+Iteration: 94, Lambda: 0.112877
+||d_Z1H/d_MH|*(|d_AH/d_Z2H |)log|
+133248
+|(|db_Zpz/db_Apz|)log*(|o_homo1/o_rop2|)log|
+1656756
+Iteration: 93, Lambda: 0.105270
+||d_Z1H/d_MH|*(|d_AH/d_Z2H |)log|
+133248
+|(|db_Zpz/db_Apz|)log*(|o_homo1/o_rop2|)log|
+1656756
+|(|en_Mdz2/en_Mdxz|)^2*(|en_Zpy/en_Zpx|)log|
+2532313
+Iteration: 92, Lambda: 0.098175
+||d_Z1H/d_MH|*(|d_AH/d_Z2H |)log|
+133248
+|(|db_Zpz/db_Apz|)log*(|o_homo1/o_rop2|)log|
+1656756
+|(|en_Mdz2/en_Mdxz|)^2*(|en_Zpy/en_Zpx|)log|
+2532313
+Iteration: 91, Lambda: 0.091558
+||d_Z1H/d_MH|*(|d_AH/d_Z2H |)log|
+133248
+|(|db_Apy/db_Mdyz|)^I*(|db_Apz/db_Mpz|)^2|
+1158881
+|(|db_Zpz/db_Apz|)log*(|o_homo1/o_rop2|)log|
+1656756
+|(|en_Mdz2/en_Mdxz|)^2*(|en_Zpy/en_Zpx|)log|
+2532313
+Iteration: 90, Lambda: 0.085387
+||d_Z1H/d_MH|*(|d_AH/d_Z2H |)log|
+133248
+|(|db_Apy/db_Mdyz|)^I*(|db_Apz/db_Mpz|)^2|
+1158881
+|(|db_Zpz/db_Apz|)log*(|o_homo1/o_rod1|)^r|
+1656618
+|(|db_Zpz/db_Apz|)log*(|o_homo1/o_rop2|)log|
+1656756
+|(|en_Mdz2/en_Mdxz|)^2*(|en_Zpy/en_Zpx|)log|
+2532313
+|(|en_Apz/en_Mdx2|)log*(|o_homo1/o_rop3|)^2|
+2617814
+Iteration: 89, Lambda: 0.079633
+||d_Z1H/d_MH|*(|d_AH/d_Z2H |)log|
+133248
+|(|db_Apy/db_Mdyz|)^I*(|db_Apz/db_Mpz|)^2|
+1158881
+|(|db_Mpz/db_Mdyz|)^I*(|db_Apz/db_Mpz|)^2|
+1230461
+|(|db_Zpz/db_Apz|)log*(|o_homo1/o_rod1|)^r|
+1656618
+|(|db_Zpz/db_Apz|)log*(|o_rod1/o_homo3|)^I|
+1656680
+|(|db_Zpz/db_Apz|)log*(|o_homo1/o_rop2|)log|
+1656756
+|(|en_Mdz2/en_Mdxz|)^2*(|en_Zpy/en_Zpx|)log|
+2532313
+|(|en_Apz/en_Mdx2|)log*(|o_homo1/o_rop3|)^2|
+2617814
+|(|en_Apx/en_Mdxy|)log*(|o_homo1/o_rop3|)^2|
+2620804
+Iteration: 88, Lambda: 0.074266
+|(q_Z)log*(|db_Apz/db_Mpz|)^2|
+101482
+||d_Z1H/d_MH|*(|d_AH/d_Z2H |)log|
+133248
+|(|db_Apy/db_Mdyz|)^I*(|db_Apz/db_Mpz|)^2|
+1158881
+|(|db_Mpz/db_Mdyz|)^I*(|db_Apz/db_Mpz|)^2|
+1230461
+|(|db_Zpz/db_Apz|)log*(|o_homo1/o_rod1|)^r|
+1656618
+|(|db_Zpz/db_Apz|)log*(|o_rod1/o_homo3|)^I|
+1656680
+|(|db_Zpz/db_Apz|)log*(|o_homo1/o_rop2|)log|
+1656756
+|(|db_Zpz/db_Apz|)log*(|et_m1/et_m2|)log|
+1656884
+|(|en_Mdz2/en_Mdxz|)^2*(|en_Zpy/en_Zpx|)log|
+2532313
+|(|en_Apz/en_Mdx2|)log*(|o_homo1/o_rop3|)^2|
+2617814
+|(|en_Apx/en_Mdxy|)log*(|o_homo1/o_rop3|)^2|
+2620804
+Iteration: 87, Lambda: 0.069260
+|(q_Z)log*(|db_Apz/db_Mpz|)^2|
+101482
+||d_Z1H/d_MH|*(|d_AH/d_Z2H |)log|
+133248
+|(|db_Apy/db_Mdyz|)^I*(|db_Apz/db_Mpz|)^2|
+1158881
+|(|db_Mpz/db_Mdyz|)^I*(|db_Apz/db_Mpz|)^2|
+1230461
+|(|db_Zpz/db_Apz|)log*(|en_Ms/en_Mpy|)^r|
+1655788
+|(|db_Zpz/db_Apz|)log*(|en_Zpx/en_Ms|)log|
+1656250
+|(|db_Zpz/db_Apz|)log*(|o_homo1/o_rod1|)^r|
+1656618
+|(|db_Zpz/db_Apz|)log*(|o_rod1/o_homo3|)^I|
+1656680
+|(|db_Zpz/db_Apz|)log*(|o_homo1/o_rop2|)log|
+1656756
+|(|db_Zpz/db_Apz|)log*(|et_m1/et_m2|)log|
+1656884
+|(|en_Mdz2/en_Mdxz|)^2*(|en_Zpy/en_Zpx|)log|
+2532313
+|(|en_Apz/en_Mdx2|)log*(|o_homo1/o_rop3|)^2|
+2617814
+|(|en_Apx/en_Mdxy|)log*(|o_homo1/o_rop3|)^2|
+2620804
+Iteration: 86, Lambda: 0.064592
+|(q_Z)log*(|db_Apz/db_Mpz|)^2|
+101482
+||d_Z1H/d_MH|*(|d_AH/d_Z2H |)log|
+133248
+|(|db_Apy/db_Mdyz|)^I*(|db_Apz/db_Mpz|)^2|
+1158881
+|(|db_Mpz/db_Mdyz|)^I*(|db_Apz/db_Mpz|)^2|
+1230461
+|(|db_Zpz/db_Apz|)log*(|en_Ms/en_Mpy|)^r|
+1655788
+|(|db_Zpz/db_Apz|)log*(|en_Zpx/en_Ms|)log|
+1656250
+|(|db_Zpz/db_Apz|)log*(|o_homo1/o_rod1|)^r|
+1656618
+|(|db_Zpz/db_Apz|)log*(|o_rod1/o_homo3|)^I|
+1656680
+|(|db_Zpz/db_Apz|)log*(|o_homo1/o_rop2|)log|
+1656756
+|(|db_Zpz/db_Apz|)log*(|et_m1/et_m2|)log|
+1656884
+|(|en_Mdz2/en_Mdxz|)^2*(|en_Zpy/en_Zpx|)log|
+2532313
+|(|en_Apz/en_Mdx2|)log*(|o_homo1/o_rop3|)^2|
+2617814
+|(|en_Apx/en_Mdxy|)log*(|o_homo1/o_rop3|)^2|
+2620804
+Iteration: 85, Lambda: 0.060239
+|(q_Z)log*(|db_Apz/db_Mpz|)^2|
+101482
+||d_Z1H/d_MH|*(|d_AH/d_Z2H |)log|
+133248
+|(|db_Apy/db_Mdyz|)^I*(|db_Apz/db_Mpz|)^2|
+1158881
+|(|db_Mpz/db_Mdyz|)^I*(|db_Apz/db_Mpz|)^2|
+1230461
+|(|db_Zpz/db_Apz|)log*(|en_Ms/en_Mpy|)^r|
+1655788
+|(|db_Zpz/db_Apz|)log*(|en_Zpx/en_Ms|)log|
+1656250
+|(|db_Zpz/db_Apz|)log*(|o_homo1/o_rod1|)^r|
+1656618
+|(|db_Zpz/db_Apz|)log*(|o_rod1/o_homo3|)^I|
+1656680
+|(|db_Zpz/db_Apz|)log*(|o_homo1/o_rod1|)log|
+1656753
+|(|db_Zpz/db_Apz|)log*(|o_homo1/o_rop2|)log|
+1656756
+|(|db_Zpz/db_Apz|)log*(|et_m1/et_m2|)log|
+1656884
+|(|en_Mdz2/en_Mdxz|)^2*(|en_Zpy/en_Zpx|)log|
+2532313
+|(|en_Apz/en_Mdx2|)log*(|o_homo1/o_rop3|)^2|
+2617814
+|(|en_Apx/en_Mdxy|)log*(|o_homo1/o_rop3|)^2|
+2620804
+Iteration: 84, Lambda: 0.056179
+|(q_Z)log*(|db_Apz/db_Mpz|)^2|
+101482
+||d_Z1H/d_MH|*(|d_AH/d_Z2H |)log|
+133248
+|(|db_Apy/db_Mdyz|)^I*(|db_Apz/db_Mpz|)^2|
+1158881
+|(|db_Mpz/db_Mdyz|)^I*(|db_Apz/db_Mpz|)^2|
+1230461
+|(|db_Zpz/db_Apz|)log*(|en_Ms/en_Mpy|)^r|
+1655788
+|(|db_Zpz/db_Apz|)log*(|o_homo1/o_rod1|)^r|
+1656618
+|(|db_Zpz/db_Apz|)log*(|o_rod1/o_homo3|)^I|
+1656680
+|(|db_Zpz/db_Apz|)log*(|o_homo1/o_rod1|)log|
+1656753
+|(|db_Zpz/db_Apz|)log*(|o_homo1/o_rop2|)log|
+1656756
+|(|db_Zpz/db_Apz|)log*(|et_m1/et_m2|)log|
+1656884
+|(|db_Mpy/db_Mpx|)log*(|db_Mpz/db_Mdxz|)log|
+1766004
+|(|db_Mdxy/db_Mdyz|)log*(en_Mdz2)^2|
+1790825
+|(|en_Mdz2/en_Mdxz|)^2*(|en_Zpy/en_Zpx|)log|
+2532313
+|(|en_Apz/en_Mdx2|)log*(|o_homo1/o_rop3|)^2|
+2617814
+|(|en_Apx/en_Mdxy|)log*(|o_homo1/o_rop3|)^2|
+2620804
+Iteration: 83, Lambda: 0.052393
+|(q_Z)log*(|db_Apz/db_Mpz|)^2|
+101482
+||d_Z1H/d_MH|*(|d_AH/d_Z2H |)log|
+133248
+|(|db_Apy/db_Apz|)^I*(|en_Apy/en_Apz|)^2|
+1147031
+|(|db_Apy/db_Mdyz|)^I*(|db_Apz/db_Mpz|)^2|
+1158881
+|(|db_Mpz/db_Mdyz|)^I*(|db_Apz/db_Mpz|)^2|
+1230461
+|(|db_Mpz/db_Mdx2|)^I*(|et_vl2/et_vl3|)log|
+1237393
+|(|db_Zpz/db_Apz|)log*(|en_Ms/en_Mpy|)^r|
+1655788
+|(|db_Zpz/db_Apz|)log*(|o_homo1/o_rod1|)^r|
+1656618
+|(|db_Zpz/db_Apz|)log*(|o_homo1/o_rod1|)log|
+1656753
+|(|db_Zpz/db_Apz|)log*(|o_homo1/o_rop2|)log|
+1656756
+|(|db_Zpz/db_Apz|)log*(|o_rod1/o_homo2|)log|
+1656767
+|(|db_Zpz/db_Apz|)log*(|et_m1/et_m2|)log|
+1656884
+|(|db_Mpy/db_Mpx|)log*(|db_Mpz/db_Mdxz|)log|
+1766004
+|(|db_Mdxy/db_Mdyz|)log*(en_Mdz2)^2|
+1790825
+|(|en_Mdz2/en_Mdxz|)^2*(|en_Zpy/en_Zpx|)log|
+2532313
+|(|en_Apz/en_Mdx2|)log*(|o_homo1/o_rop3|)^2|
+2617814
+|(|en_Apx/en_Mdxy|)log*(|o_homo1/o_rop3|)^2|
+2620804
+Iteration: 82, Lambda: 0.048862
+|(q_Z)log*(|db_Apz/db_Mpz|)^2|
+101482
+||d_Z1H/d_MH|*(|d_AH/d_Z2H |)log|
+133248
+|(|d_AH/d_Z2H |)log*(|db_Zpy/db_Apy|)^r|
+227243
+|(|db_Apy/db_Apz|)^I*(|en_Apy/en_Apz|)^2|
+1147031
+|(|db_Apy/db_Mdyz|)^I*(|db_Apz/db_Mpz|)^2|
+1158881
+|(|db_Mpz/db_Mdyz|)^I*(|db_Apz/db_Mpz|)^2|
+1230461
+|(|db_Mpz/db_Mdx2|)^I*(|et_vl2/et_vl3|)log|
+1237393
+|(|db_Zpz/db_Apz|)log*(|en_Ms/en_Mpy|)^r|
+1655788
+|(|db_Zpz/db_Apz|)log*(|o_homo1/o_rod1|)^r|
+1656618
+|(|db_Zpz/db_Apz|)log*(|o_homo1/o_rod1|)log|
+1656753
+|(|db_Zpz/db_Apz|)log*(|o_homo1/o_rop2|)log|
+1656756
+|(|db_Zpz/db_Apz|)log*(|o_rod1/o_homo2|)log|
+1656767
+|(|db_Zpz/db_Apz|)log*(|et_m1/et_m2|)log|
+1656884
+|(|db_Mpy/db_Mpx|)log*(|db_Mpz/db_Mdxz|)log|
+1766004
+|(|db_Mdxy/db_Mdyz|)log*(en_Mdz2)^2|
+1790825
+|(|en_Mdz2/en_Mdxz|)^2*(|en_Zpy/en_Zpx|)log|
+2532313
+|(|en_Apx/en_Mdxy|)log*(|o_homo1/o_rop3|)^2|
+2620804
+Iteration: 81, Lambda: 0.045569
+|(q_Z)log*(|db_Apz/db_Mpz|)^2|
+101482
+||d_Z1H/d_MH|*(|d_AH/d_Z2H |)log|
+133248
+|(|d_AH/d_Z2H |)log*(|db_Zpy/db_Apy|)^r|
+227243
+|(|db_Apy/db_Apz|)^I*(|en_Apy/en_Apz|)^2|
+1147031
+|(|db_Mpz/db_Mdyz|)^I*(|db_Apz/db_Mpz|)^2|
+1230461
+|(|db_Mpz/db_Mdx2|)^I*(|et_vl2/et_vl3|)log|
+1237393
+|(|db_Zpz/db_Apz|)log*(|en_Ms/en_Mpy|)^r|
+1655788
+|(|db_Zpz/db_Apz|)log*(|o_homo1/o_rod1|)log|
+1656753
+|(|db_Zpz/db_Apz|)log*(|o_homo1/o_rop2|)log|
+1656756
+|(|db_Zpz/db_Apz|)log*(|o_rod1/o_homo2|)log|
+1656767
+|(|db_Zpz/db_Apz|)log*(|et_m1/et_m2|)log|
+1656884
+|(|db_Mpy/db_Mpx|)log*(|db_Mpz/db_Mdxz|)log|
+1766004
+|(|db_Mdxy/db_Mdyz|)log*(en_Mdz2)^2|
+1790825
+|(|db_Mdxy/db_Mdyz|)log*(|et_m2/et_m3|)^2|
+1791685
+|(|en_Mdz2/en_Mdxz|)^2*(|en_Zpy/en_Zpx|)log|
+2532313
+|(|en_Apx/en_Mdxy|)log*(|o_homo1/o_rop3|)^2|
+2620804
+Iteration: 80, Lambda: 0.042498
+|(q_Z)log*(|db_Apz/db_Mpz|)^2|
+101482
+||d_Z1H/d_MH|*(|d_AH/d_Z2H |)log|
+133248
+|(|d_AH/d_Z2H |)log*(|db_Zpy/db_Apy|)^r|
+227243
+||db_Ms/db_Mpy|*(|db_Zpz/db_Apz|)log|
+530908
+|(|db_Apy/db_Apz|)^I*(|en_Apy/en_Apz|)^2|
+1147031
+|(|db_Mpz/db_Mdyz|)^I*(|db_Apz/db_Mpz|)^2|
+1230461
+|(|db_Apy/db_Apz|)^2*(|db_Zpx/db_Apz|)log|
+1442325
+|(|db_Ms/db_Mpy|)^2*(|db_Zpz/db_Apz|)log|
+1491227
+|(|db_Zpz/db_Apz|)log*(|en_Ms/en_Mpy|)^r|
+1655788
+|(|db_Zpz/db_Apz|)log*(|o_homo1/o_rod1|)log|
+1656753
+|(|db_Zpz/db_Apz|)log*(|o_homo1/o_rop2|)log|
+1656756
+|(|db_Zpz/db_Apz|)log*(|o_rod1/o_homo2|)log|
+1656767
+|(|db_Zpz/db_Apz|)log*(|et_vl1/et_vl2|)log|
+1656879
+|(|db_Zpz/db_Apz|)log*(|et_m1/et_m2|)log|
+1656884
+|(|db_Apy/db_Mpz|)log*(|et_vl1/et_vl3|)^2|
+1716512
+|(|db_Mpy/db_Mpx|)log*(|db_Mpz/db_Mdxz|)log|
+1766004
+|(|db_Mdxy/db_Mdyz|)log*(en_Mdz2)^2|
+1790825
+|(|db_Mdxy/db_Mdyz|)log*(|et_m2/et_m3|)^2|
+1791685
+|(|en_Mdz2/en_Mdxz|)^2*(|en_Zpy/en_Zpx|)log|
+2532313
+|(|en_Zpy/en_Zpx|)log*(|en_Apx/en_Mdx2|)log|
+2570921
+|(|en_Apx/en_Mdxy|)log*(|o_homo1/o_rop3|)^2|
+2620804
+-------End of Lasso Step------------------
+Total Number of Coeff.: 27
+list of Coeff. 
+index	Coeff. 
+101482	|(q_Z)log*(|db_Apz/db_Mpz|)^2|
+133248	||d_Z1H/d_MH|*(|d_AH/d_Z2H |)log|
+227243	|(|d_AH/d_Z2H |)log*(|db_Zpy/db_Apy|)^r|
+530908	||db_Ms/db_Mpy|*(|db_Zpz/db_Apz|)log|
+1147031	|(|db_Apy/db_Apz|)^I*(|en_Apy/en_Apz|)^2|
+1158881	|(|db_Apy/db_Mdyz|)^I*(|db_Apz/db_Mpz|)^2|
+1230461	|(|db_Mpz/db_Mdyz|)^I*(|db_Apz/db_Mpz|)^2|
+1237393	|(|db_Mpz/db_Mdx2|)^I*(|et_vl2/et_vl3|)log|
+1442325	|(|db_Apy/db_Apz|)^2*(|db_Zpx/db_Apz|)log|
+1491227	|(|db_Ms/db_Mpy|)^2*(|db_Zpz/db_Apz|)log|
+1655788	|(|db_Zpz/db_Apz|)log*(|en_Ms/en_Mpy|)^r|
+1656250	|(|db_Zpz/db_Apz|)log*(|en_Zpx/en_Ms|)log|
+1656618	|(|db_Zpz/db_Apz|)log*(|o_homo1/o_rod1|)^r|
+1656680	|(|db_Zpz/db_Apz|)log*(|o_rod1/o_homo3|)^I|
+1656753	|(|db_Zpz/db_Apz|)log*(|o_homo1/o_rod1|)log|
+1656756	|(|db_Zpz/db_Apz|)log*(|o_homo1/o_rop2|)log|
+1656767	|(|db_Zpz/db_Apz|)log*(|o_rod1/o_homo2|)log|
+1656879	|(|db_Zpz/db_Apz|)log*(|et_vl1/et_vl2|)log|
+1656884	|(|db_Zpz/db_Apz|)log*(|et_m1/et_m2|)log|
+1716512	|(|db_Apy/db_Mpz|)log*(|et_vl1/et_vl3|)^2|
+1766004	|(|db_Mpy/db_Mpx|)log*(|db_Mpz/db_Mdxz|)log|
+1790825	|(|db_Mdxy/db_Mdyz|)log*(en_Mdz2)^2|
+1791685	|(|db_Mdxy/db_Mdyz|)log*(|et_m2/et_m3|)^2|
+2532313	|(|en_Mdz2/en_Mdxz|)^2*(|en_Zpy/en_Zpx|)log|
+2570921	|(|en_Zpy/en_Zpx|)log*(|en_Apx/en_Mdx2|)log|
+2617814	|(|en_Apz/en_Mdx2|)log*(|o_homo1/o_rop3|)^2|
+2620804	|(|en_Apx/en_Mdxy|)log*(|o_homo1/o_rop3|)^2|
