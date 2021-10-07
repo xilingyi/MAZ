@@ -2,7 +2,7 @@
 clearvars;close all;clc;
 
 %% Import the data: GH Data
-[~, ~, raw] = xlsread('list-MAZ-0.5.xlsx');
+[~, ~, raw] = xlsread('list-MAZ-025.xlsx');
 data = raw(2:end,:);
 %raw = raw(2:92,:);
 data(cellfun(@(x) ~isempty(x) && isnumeric(x) && isnan(x),data)) = {''};
