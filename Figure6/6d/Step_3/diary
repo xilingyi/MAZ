@@ -1,0 +1,93 @@
+----------------
+No of descriptors
+----------------
+     1
+
+lowest RMSE Index
+    13
+
+lowest RMSE
+    0.1048
+
+MAE
+    0.0834
+
+MaxAE
+    0.2554
+
+Descriptors
+    '|(|db_As/db_Mdz2|)^I*(|en_Hs/en_Apz|)^I|'
+
+Descriptor Index
+     1141324
+
+Coefficients
+   -0.0496
+
+Intercept
+    0.1818
+
+----------------
+No of descriptors
+----------------
+     2
+
+lowest RMSE Index
+   284
+
+lowest RMSE
+    0.0900
+
+MAE
+    0.0675
+
+MaxAE
+    0.2474
+
+Descriptors
+    '|(|db_Hs/db_Mdz2|)^I*(|en_Hs/en_Apy|)^I|'
+    '|(db_Mdxy)log*(o_rop3)log|'
+
+Descriptor Index
+     1011508     1570560
+
+Coefficients
+   -0.0470
+   -0.1462
+
+Intercept
+    0.2158
+
+----------------
+No of descriptors
+----------------
+     3
+
+lowest RMSE Index
+        2123
+
+lowest RMSE
+    0.0719
+
+MAE
+    0.0578
+
+MaxAE
+    0.1629
+
+Descriptors
+    '|(|db_Mpy/db_Mpx|)^r*(|en_Zpy/en_Zpx|)^I|'
+    '|(db_Mdz2)^2*(|en_As/en_Ms|)log|'
+    '|(|db_Mpz/db_Mdxy|)log*(|et_vl2/et_m3|)^2|'
+
+Descriptor Index
+      898298     1291048     1777434
+
+Coefficients
+    5.3430
+   -0.0303
+   -0.0688
+
+Intercept
+   -5.1436
+
